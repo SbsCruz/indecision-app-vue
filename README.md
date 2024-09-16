@@ -1,6 +1,8 @@
 # 04-indecision-app
+### Developed in Vue+Vite+TS+TailwindCSS
 
-This template should help get you started developing with Vue 3 in Vite.
+You can check the funcionality here:
+[IndecisionApp](https://indeciso.netlify.app/)
 
 ## Recommended IDE Setup
 
