@@ -1,6 +1,11 @@
 # 04-indecision-app
 ### Developed in Vue+Vite+TS+TailwindCSS
 
+```
+  A sort of Chat with API
+```
+This app generates an HTTP request to yesno.wtf API if your message ends with "?"
+
 You can check the funcionality here:
 [IndecisionApp](https://indeciso.netlify.app/)
 
